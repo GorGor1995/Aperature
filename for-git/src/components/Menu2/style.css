@@ -1,0 +1,25 @@
+.menu2 {
+    background-image:url(../../pic/m2/1.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+   
+    height: 600px;
+}
+.m2 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    font-style: normal;
+    padding-left: 1080px;
+    padding-top: 260px ;
+}
+.m2-title {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+.m2-sup {
+    color: #C0C0C0;
+}

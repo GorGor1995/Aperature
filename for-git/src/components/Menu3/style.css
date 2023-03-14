@@ -1,0 +1,49 @@
+
+.menu3 {
+    background-image: url(../../pic/m3/1.png);
+    height: 540px;
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Poppins';
+    line-height: 20px;
+}
+.m3-title {
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #C0C0C0;
+
+    padding-top: 175px;
+    padding-left: 100px;
+}
+.m3-sup {
+    line-height: 32px;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding-left: 100px;
+    padding-top: 8px;
+}
+.m3-sub {
+    line-height: 20px;
+    font-size: 14px;
+    color: #FFFFFF;
+    padding-top: 8px;
+    padding-left: 100px;
+}
+.m3-bottom {
+    padding-left: 98px;
+    padding-top: 15px;
+}
+.m3-btn {
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.4s linear;
+}
+.m3-btn:hover {
+    background-color: red;
+}

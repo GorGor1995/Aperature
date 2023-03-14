@@ -1,0 +1,24 @@
+.menu4 {
+    background-image: url(../../pic/m4/1.png);
+    height: 600px;
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Poppins';
+    line-height: 20px;
+}
+.m4-title {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 14px;
+    padding-top: 260px;
+    padding-left: 1080px;
+    color: #FFFFFF;
+}
+.m4-sup {
+    color: #C0C0C0;
+    font-size: 14px;
+    padding-left: 1080px;
+    padding-top: 8px;
+}

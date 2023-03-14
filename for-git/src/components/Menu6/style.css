@@ -1,0 +1,26 @@
+.menu6 {
+    background-image: url(../../pic/m6/1.png);
+    height: 600px;
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Poppins';
+    line-height: 20px;
+}
+.m6-title {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+
+    padding-left: 1080px;
+    padding-top: 250px;
+}
+.m6-sup {
+    font-size: 14px;
+    color: #C0C0C0;
+
+    padding-left: 1080px;
+    padding-top: 10px;
+}
